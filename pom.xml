@@ -47,3 +47,6 @@
 
 	
 </project>
+<build>
+    <finalName>ecommerce-v1.0</finalName>
+</build>
